@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/P1 Introducción PHP.iml" filepath="$PROJECT_DIR$/.idea/P1 Introducción PHP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../P2 PHP BASICO/.idea/P2 PHP BASICO.iml" filepath="$PROJECT_DIR$/../P2 PHP BASICO/.idea/P2 PHP BASICO.iml" />
+    </modules>
+  </component>
+</project>

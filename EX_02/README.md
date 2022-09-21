@@ -1,0 +1,1 @@
+En aquest treball no he trobat cap dificultat. He fet 4 if, per definir les diferents condicions i aixì mostrar el missatge corresponent depenent del preu d'enviament.
